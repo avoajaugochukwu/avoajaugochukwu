@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 Front-end developer at PwC Nigeria. I worked with skilled developers and data scientists to build React applications for clients of various sizes.
 <br><br>
 ## Projects
-<strong>[Podcast Player](https://react-podcast-player.herokuapp.com/):</strong> This is a podcast player built with Apple's Podcast API. Users can find and enjoy their favourite podcasts right from their browsers.
+- <strong>[Podcast Player](https://react-podcast-player.herokuapp.com/):</strong> This is a podcast player built with Apple's Podcast API. Users can find and enjoy their favourite podcasts right from their browsers. 
 <p><strong>Tools:</strong> ``react``, ``axios``, ``react-redux``, ``infinite scrolling``, ``react-router-dom``.</p>
 
-<strong>[Cumba Bikes](https://shopping-app-frontend.herokuapp.com/):</strong> This is an e-commerce store where users can shop and create a cart without creating an account, because of the use of ``react-redux`` and ``local storage``.
+- <strong>[Cumba Bikes](https://shopping-app-frontend.herokuapp.com/):</strong> This is an e-commerce store where users can shop and create a cart without creating an account, because of the use of ``react-redux`` and ``local storage``.
 <p><strong>Tools:</strong> ``python``, ``django``, ``djang-rest-framework``, ``postgresql``, ``react``, ``axios``, ``react-redux``, ``react-router-dom``.</p>
 
-<strong>[Figma to React](https://figma-to-react.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components.
+- <strong>[Figma to React](https://figma-to-react.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components.
 <p><strong>Tools:</strong> ``react``, ``react-router-dom``, ``Figma``, ``TailwindCSS``</p>
 
 ## Writing
