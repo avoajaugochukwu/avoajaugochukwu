@@ -28,6 +28,13 @@ Front-end developer at PwC Nigeria. I worked with skilled developers and data sc
 <strong>[Figma to React](https://figma-to-react.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components.
 <p><strong>Tools:</strong> ``react``, ``react-router-dom``, ``Figma``, ``TailwindCSS``</p>
 
+## Writing
+- [Build podcast player with React, Redux, and Apple API - Tutorial](https://techwizerd.com/posts/how-to-build-a-podcast-player-with-react-js-tailwind-css-and-apple-podcast-api/) (50+ minutes, five parts)
+- [React useEffect to post data and refresh without infinite callback - Tutorial](https://techwizerd.com/posts/how-to-use-react-use-effect-to-post-data-and-refresh-without-infinite-callback/) (3 minutes)
+- [How to create Hugo blog on Github Pages Using Windows - Tutorial](https://techwizerd.com/posts/how-to-create-hugo-blog-on-github-pages-using-windows/) (6 minutes)
+
+
+
 <br><br>
 ### Connect with me:
 [<img align="left" alt="https://techwizerd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
