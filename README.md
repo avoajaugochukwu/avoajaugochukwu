@@ -22,7 +22,7 @@ Front-end developer at PwC Nigeria. I worked with skilled developers and data sc
 - <strong>[Podcast Player](https://react-podcast-player.herokuapp.com/):</strong> This is a podcast player built with Apple's Podcast API. Users can find and enjoy their favourite podcasts right from their browsers. 
 *<strong>Tools:</strong> ``react``, ``axios``, ``react-redux``, ``infinite scrolling``, ``react-router-dom``.*
 
-- <strong>[Cumba Bikes](https://shopping-app-frontend.herokuapp.com/):</strong> This is an e-commerce store where users can shop and create a cart without creating an account, because of the use of ``react-redux`` and ``local storage``.
+- <strong>[Cumba Bikes](https://github.com/avoajaugochukwu/Shoppingfy/):</strong> This is an e-commerce store where users can shop and create a cart without creating an account, because of the use of ``react-redux`` and ``local storage``.
 *<strong>Tools:</strong> ``python``, ``django``, ``djang-rest-framework``, ``postgresql``, ``react``, ``axios``, ``react-redux``, ``react-router-dom``.*
 
 - <strong>[Figma to React](https://figma-to-react.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components.
