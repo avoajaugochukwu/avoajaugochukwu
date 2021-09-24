@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love business stories and history (From 509 B.C. onward)
 <br><br>
-## Previous Experiences
-Front-end developer at PwC Nigeria. I worked with skilled developers and data scientists to build React applications for clients of various sizes.
+## Experiences
+- Front-end developer at ColorElephant. Figma to React conversions. Building forms with comlicated state management and user interaction flows.
+- Front-end developer at PwC Nigeria. I worked with skilled developers and data scientists to build React applications for clients of various sizes.
 <br><br>
 ## Projects
 - <strong>Podcast Player [Code](https://github.com/avoajaugochukwu/podcast_player) / [Demo](https://react-podcast-player.herokuapp.com/):</strong> This is a podcast player built with Apple's Podcast API. Users can find and enjoy their favourite podcasts right from their browsers. 
@@ -26,6 +27,9 @@ Front-end developer at PwC Nigeria. I worked with skilled developers and data sc
 *<strong>Tools:</strong> ``python``, ``django``, ``djang-rest-framework``, ``postgresql``, ``react``, ``axios``, ``react-redux``, ``react-router-dom``.*
 
 - <strong>Figma to React [Code](https://github.com/avoajaugochukwu/ui_component_no_tailwind) / [Demo](https://figma-to-react.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components.
+*<strong>Tools:</strong> ``react``, ``react-router-dom``, ``Figma``, ``TailwindCSS``.*
+
+- <strong>Figma to React Coffee Shop [Code](https://github.com/avoajaugochukwu/my_decagon) / [Demo](https://unruffled-varahamihira-8badfa.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components. For a coffee business.
 *<strong>Tools:</strong> ``react``, ``react-router-dom``, ``Figma``, ``TailwindCSS``.*
 
 ## Writing
