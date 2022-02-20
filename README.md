@@ -1,4 +1,4 @@
-### 👋 Hi there, I am Ugochukww AKA [techwizerd](https://techwizerd.com) 🎩
+### 👋 Hi there, I am Ugochukwu Charles Avoaja [my website](https://charlesavoaja.tech) 🎩
 
 ## I am a front end developer and I like to teach
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
-[website]: https://techwizerd.com
+[website]: https://charlesavoaja.tech
 [twitter]: https://twitter.com/avoajacharles
 [linkedin]: https://www.linkedin.com/in/avoajaugochukwu/
 
