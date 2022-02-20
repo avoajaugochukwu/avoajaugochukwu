@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [a NextJS e-commerce store](https://bycking.com/)
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source projects - ``javascript/react``, ``python/django``
+- 👯 I’m looking to collaborate on open source projects - ``javascript|react|nextJS`` and training people
 - 🤔 I’m looking for help to join a company to make an impact
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love business stories and history (From 509 B.C. onward)
