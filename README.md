@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Podcast Player](https://react-podcast-player.herokuapp.com/)
+- 🔭 I’m currently working on [a NextJS e-commerce store](https://bycking.com/)
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source projects - ``javascript/react``, ``python/django``
 - 🤔 I’m looking for help to join a company to make an impact
