@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - Front-end developer at PwC Nigeria. I worked with skilled developers and data scientists to build React applications for clients of various sizes.
 <br><br>
 ## Projects
+- <strong>NextJS e-Commerce store [Live site](https://bycking.com/):</strong> This is a full-featured e-commerce store for high-end bikes built with NextJS. I was responsible for the entire front-end work, from desgin architecture to implementation.
+*<strong>Tools:</strong> ``react``, ``next-js``, ``react-context``.*
+
 - <strong>Podcast Player [Code](https://github.com/avoajaugochukwu/podcast_player) / [Demo](https://react-podcast-player.herokuapp.com/):</strong> This is a podcast player built with Apple's Podcast API. Users can find and enjoy their favourite podcasts right from their browsers. 
 *<strong>Tools:</strong> ``react``, ``axios``, ``react-redux``, ``infinite scrolling``, ``react-router-dom``.*
 
