@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love business stories and history (From 509 B.C. onward)
 <br><br>
 ## Experiences
-- Front-end developer at ColorElephant. Figma to React conversions. Building forms with comlicated state management and user interaction flows.
-- Front-end developer at PwC Nigeria. I worked with skilled developers and data scientists to build React applications for clients of various sizes.
+- Front-end developer at *ColorElephant*. Figma to React conversions. Building forms with comlicated state management and user interaction flows.
+- Front-end developer at *PwC Nigeria*. I worked with skilled developers and data scientists to build React applications for clients of various sizes.
 <br><br>
 ## Projects
 - <strong>NextJS e-Commerce store [Live site](https://bycking.com/):</strong> This is a full-featured e-commerce store for high-end bikes built with NextJS. I was responsible for the entire front-end work, from desgin architecture to implementation.
