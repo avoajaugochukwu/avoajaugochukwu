@@ -1,5 +1,7 @@
 ### 👋 Hi there, I am Ugochukwu Charles Avoaja [my website](https://charlesavoaja.tech) 🎩
 
+<small>[My online resume](https://read.cv/ugo)</small>
+
 ## I am a front end developer and I like to teach
 
 <!--
