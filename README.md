@@ -2,7 +2,7 @@
 
 <small>[My online resume](https://read.cv/ugo)</small>
 
-## I am a front end developer and I like to teach
+## I am a developer and I like to teach
 
 <!--
 **avoajaugochukwu/avoajaugochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
