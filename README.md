@@ -1,8 +1,9 @@
-### 👋 Hi there, I am Ugochukwu Charles Avoaja [my website](https://charlesavoaja.tech) 🎩
+# 👋 Hi there, I am Ugochukwu Charles Avoaja [my website](https://charlesavoaja.tech) 🎩
+#### [My blog](https://blog.charlesavoaja.tech)
 
 <!-- <small>[My online resume](https://read.cv/ugo)</small> -->
 
-## I am a developer and I like to teach
+## I am a senior software developer who loves to mentor junior developers
 
 <!--
 **avoajaugochukwu/avoajaugochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love business stories and history (From 509 B.C. onward)
 <br><br>
 ## Experiences
+- <strong>ColorElephant</strong>, Front-end developer: Working with product and business to bring ideas to lives using React, NextJS and any other tools the job calls for.
 - <strong>ColorElephant</strong>, Front-end developer: Working with product and business to bring ideas to lives using React, NextJS and any other tools the job calls for.
 - <strong>PwC Nigeria</strong>, Front-end developer: I worked with skilled developers and data scientists to build React applications for clients of various sizes.
 <br><br>
