@@ -7,7 +7,7 @@
 
 <!--
 **avoajaugochukwu/avoajaugochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Here are some ideas to get you started:
 
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to join a company to make an impact
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love business stories and history (From 509 B.C. onward)
+-->
 <br><br>
 ## Experiences
 - <strong>ColorElephant</strong>, Front-end developer: Working with product and business to bring ideas to lives using React, NextJS and any other tools the job calls for.
