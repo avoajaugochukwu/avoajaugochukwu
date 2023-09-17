@@ -21,7 +21,7 @@
 - Strong team player, fostering effective collaboration to drive collective success
 - Experience with cloud technologies, Docker, AWS, Terraform
 
-<br><be>
+<br><br>
 
 <!--
 ## Experiences
@@ -30,6 +30,8 @@
 - <strong>PwC Nigeria</strong>, Front-end developer: I worked with skilled developers and data scientists to build NodeJS and React applications for clients of various sizes.
 <br><br>
 -->
+
+<!--
 ## Projects
 - <strong>NextJS e-Commerce store [Live site](https://bycking.com/):</strong> This is a full-featured e-commerce store for high-end bikes built with NextJS. I was responsible for the entire front-end work, from design architecture to implementation.
 *<strong>Tools:</strong> ``react``, ``nextJs``, ``react-context``.*
@@ -43,12 +45,12 @@
 - <strong>Figma to React -- / [Live](https://admiring-gates-f092da.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components.
 *<strong>Tools:</strong> ``react``, ``react-router-dom``, ``Figma``, ``TailwindCSS``.*
 
-- <strong>Figma to React [Code](https://github.com/avoajaugochukwu/ui_component_no_tailwind) / [Live](https://figma-to-react.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components.
+- <strong>Figma to React [Code](https://github.com/avoajaugochukwu/ui_component_no_tailwind) / [Live](https://figma-to-react.netlify.app/):</strong> My work on converting Figma files found on the internet to pixel-perfect React components.
 *<strong>Tools:</strong> ``react``, ``react-router-dom``, ``Figma``, ``TailwindCSS``.*
 
-- <strong>Figma to React Coffee Shop [Code](https://github.com/avoajaugochukwu/my_decagon) / [Live](https://unruffled-varahamihira-8badfa.netlify.app/):</strong> My work on converting Figma files found on the internent to pixel-perfect React components. For a coffee business.
+- <strong>Figma to React Coffee Shop [Code](https://github.com/avoajaugochukwu/my_decagon) / [Live](https://unruffled-varahamihira-8badfa.netlify.app/):</strong> My work on converting Figma files found on the internet to pixel-perfect React components. For a coffee business.
 *<strong>Tools:</strong> ``react``, ``react-router-dom``, ``Figma``, ``TailwindCSS``.*
-
+-->
 
 ## Writing
 - [Build podcast player with React, Redux, and Apple API - Tutorial](https://techwizerd.com/posts/how-to-build-a-podcast-player-with-react-js-tailwind-css-and-apple-podcast-api/) (50+ minutes, five parts)
