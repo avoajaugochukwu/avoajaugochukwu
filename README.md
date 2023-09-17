@@ -7,18 +7,24 @@
 
 <!--
 **avoajaugochukwu/avoajaugochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [a NextJS e-commerce store](https://bycking.com/)
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source projects - ``javascript|react|nextJS`` and training people
-- 🤔 I’m looking for help to join a company to make an impact
-- 💬 Ask me about anything
-- ⚡ Fun fact: I love business stories and history (From 509 B.C. onward)
+- Over seven years of Java 8/11, SpringBoot, JUnit, Mockito, REST APIs
+- Over five years of Angular 8/9/10, JavaScript, Typescript, RXJS, JWT, NodeJS, RxJS, Karma/Jasmine, Junit/TestNG
+- Experience working with SQL and NoSQL databases - PostgreSQL, MongoDB, MySQL, Oracle, MS SQL Server
+- Experience in maintaining and extending Java 8 applications and microservices
+- Self-driven, ability to work in a fast-paced, dynamic environment
+- Extensive experience in unit, integration, and  end-to-end testing
+- Experience creating test plans, test cases, bug reports, and performing root cause analysis
+- Experience in translating business requirements into trackable and measurable technical specification
+- Experience in code review and delivering high-quality code that is easily maintainable and extendable
+- Strong team player, fostering effective collaboration to drive collective success
+- Experience with cloud technologies, Docker, AWS, Terraform
+
 <br><be>
--->
+
 ## Experiences
 - <strong>PortX</strong>, Senior developer: C#, Java, NodeJs, TypeScript, React, Angular, Docker, AWS and Kubernetes.
 - <strong>ColorElephant</strong>, Front-end developer: NextJS, Angular, C#, Java, PostgreSQL, MySQL, MSSQL.
