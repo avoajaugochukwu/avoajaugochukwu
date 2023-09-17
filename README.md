@@ -9,8 +9,6 @@
 **avoajaugochukwu/avoajaugochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - Over seven years of Java 8/11, SpringBoot, JUnit, Mockito, REST APIs
 - Over five years of Angular 8/9/10, JavaScript, Typescript, RXJS, JWT, NodeJS, RxJS, Karma/Jasmine, Junit/TestNG
 - Experience working with SQL and NoSQL databases - PostgreSQL, MongoDB, MySQL, Oracle, MS SQL Server
@@ -25,11 +23,13 @@ Here are some ideas to get you started:
 
 <br><be>
 
+<!--
 ## Experiences
 - <strong>PortX</strong>, Senior developer: C#, Java, NodeJs, TypeScript, React, Angular, Docker, AWS and Kubernetes.
 - <strong>ColorElephant</strong>, Front-end developer: NextJS, Angular, C#, Java, PostgreSQL, MySQL, MSSQL.
 - <strong>PwC Nigeria</strong>, Front-end developer: I worked with skilled developers and data scientists to build NodeJS and React applications for clients of various sizes.
 <br><br>
+-->
 ## Projects
 - <strong>NextJS e-Commerce store [Live site](https://bycking.com/):</strong> This is a full-featured e-commerce store for high-end bikes built with NextJS. I was responsible for the entire front-end work, from design architecture to implementation.
 *<strong>Tools:</strong> ``react``, ``nextJs``, ``react-context``.*
