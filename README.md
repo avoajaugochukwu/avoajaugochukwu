@@ -3,14 +3,14 @@
 
 <!-- <small>[My online resume](https://read.cv/ugo)</small> -->
 
-## I am a senior software developer who loves to mentor junior developers
+## I am a software developer who loves to mentor junior developers
 
 <!--
 **avoajaugochukwu/avoajaugochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Over seven years of Java 8/11, SpringBoot, JUnit, Mockito, REST APIs
-- Over five years of Angular 8/9/10, JavaScript, Typescript, RXJS, JWT, NodeJS, RxJS, Karma/Jasmine, Junit/TestNG
+- Experience in Java 8/11, SpringBoot, JUnit, Mockito, REST APIs
+- Experience in Angular 8/9/10, JavaScript, Typescript, RXJS, JWT, NodeJS, RxJS, Karma/Jasmine, Junit/TestNG
 - Experience working with SQL and NoSQL databases - PostgreSQL, MongoDB, MySQL, Oracle, MS SQL Server
 - Experience in maintaining and extending Java 8 applications and microservices
 - Self-driven, ability to work in a fast-paced, dynamic environment
